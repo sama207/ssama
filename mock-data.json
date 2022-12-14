@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "compname": "Adidas", 
+     "email": "Adidas@email.com",
+      "address": "Germany",
+      "phone": "333-962-7516",
+      "comptype":"clothes"
+    },
+    {
+      "id": 2,
+      "compname": "Wasel", 
+      "email": "wasel@gmail.com",
+       "address": "palestine",
+       "phone": "543-776-0000",
+       "comptype":"delivery"  
+      },
+    {
+      "id": 3,
+      "compname": "Amazon", 
+      "email": "Amazon@hotmail.com",
+       "address": "NY",
+       "phone": "123-665-7345",
+       "comptype":"clothes"   
+     }
+  ]
